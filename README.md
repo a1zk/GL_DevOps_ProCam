@@ -3,12 +3,12 @@
 
 #### Use localy
 
-Run ./metics for one of arguments:
- cpu
- mem
- all
+Run ./metics with one of arguments:
+- cpu
+- mem
+- all
 
-example:
+#####example:
  ./metrics all
 
 #### use in docker 
