@@ -7,8 +7,7 @@ Run ./metics with one of arguments:
 - cpu
 - mem
 - all
-
-- example:
+##### example:
  ./metrics all
 
 #### use in docker 
